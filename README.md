@@ -36,7 +36,7 @@ In you checked out code, open doc/html/annotated.html to see the Doxygen documen
 
 ## 2.2 Hardware Documentation
 
-Hardware Documentation: https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard
+Hardware Documentation: [https://github.com/TechnocopiaPlant/ForkyRIB](https://github.com/TechnocopiaPlant/ForkyRIB)
 
 ## 2.3 Electrical Documentation
 
@@ -48,18 +48,9 @@ It is important to make sure the red connection (3.3v) is attached to the level 
 
 # 3. Where Is My Code?
 
-Your private Repository has been created for you here: https://github.com/RBE200x-lab
-
-You and your team members should find your repository made with the template code in there.
+Right Here!
 
 
-
-# 4. Install Eclipse And Setup Eclipse on ( Personal Machine ONLY)
-
- [See Eclipse install instructions in InstallEclipse.md](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/InstallEclipse.md)
- 
-# 5. Development of your code
- [Open Projects in Eclipse using the Eclipse instructions](https://github.com/WPIRoboticsEngineering/RobotInterfaceBoard/blob/master/UseEclipse.md)
 
 # 6. Code theory, structure and what to edit
 
