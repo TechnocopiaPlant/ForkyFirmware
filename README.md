@@ -34,6 +34,8 @@ In you checked out code, open doc/html/annotated.html to see the Doxygen documen
 
 ([Bowler Studio](https://github.com/CommonWealthRobotics/BowlerStudio)) files for BaseBot modules are located in the [ForkyRobot](https://github.com/TechnocopiaPlant/ForkyRobot) repository. [STL files](https://github.com/TechnocopiaPlant/ForkyRobot/releases) are located under the release tab.
 
+[BaseBot Assembly](doc/HOW%20TO%20BUILD%20THE%20BASEBOT%20(1).pdf)
+
 ## 2.2 Hardware Documentation
 
 Hardware Documentation: [https://github.com/TechnocopiaPlant/ForkyRIB](https://github.com/TechnocopiaPlant/ForkyRIB)
